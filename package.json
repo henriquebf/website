@@ -1,0 +1,15 @@
+{
+  "name": "henrique.berlin",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "author": "Henrique Ferreira",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "next": "^2.4.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
